@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "10jqka.com.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".10jqka.com.cn"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "10jqka"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "116.63.233.254/32",
+        "122.224.106.14/32"
+      ]
+    }
+  ]
+}
